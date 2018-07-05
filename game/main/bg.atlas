@@ -1,0 +1,163 @@
+images {
+  image: "/assets/bg/1x/bg-1.png"
+}
+images {
+  image: "/assets/bg/1x/bg-2.png"
+}
+images {
+  image: "/assets/bg/1x/bg-3.png"
+}
+images {
+  image: "/assets/bg/1x/sun.png"
+}
+images {
+  image: "/assets/bg/bg-pixel.png"
+}
+animations {
+  id: "bird-fly"
+  images {
+    image: "/assets/bg/1x/bird/bird_00000.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00001.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00002.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00003.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00004.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00005.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00006.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00007.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00008.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00009.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00010.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00011.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00012.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00013.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00014.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00015.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00016.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00017.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00018.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00019.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00020.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00021.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00022.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00023.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00024.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00025.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00026.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00027.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00028.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00029.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00030.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00031.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00032.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00033.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00034.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00035.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00036.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00037.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00038.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00039.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00040.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00041.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00042.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00043.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00044.png"
+  }
+  images {
+    image: "/assets/bg/1x/bird/bird_00045.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

@@ -1,0 +1,1016 @@
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-climb/bean-climb_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-2/bean-die-2_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00011.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-die/bean-die_00011.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt/bean-hurt_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt/bean-hurt_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt/bean-hurt_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-hurt/bean-hurt_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00011.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00012.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00013.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00014.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00015.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00016.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00017.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00018.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00019.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00020.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00021.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00022.png"
+}
+images {
+  image: "/assets/characters/1x/bean-idle/bean-idle_00023.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00011.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00011.png"
+}
+images {
+  image: "/assets/characters/1x/bean-land/bean-land_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-land/bean-land_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-land/bean-land_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-land/bean-land_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-land/bean-land_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00000.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00001.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00002.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00003.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00004.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00005.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00006.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00007.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00008.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00009.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00010.png"
+}
+images {
+  image: "/assets/characters/1x/bean-run/bean-run_00011.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00000.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00001.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00002.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00003.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00004.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00005.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00006.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00007.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00008.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00009.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00010.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00011.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00012.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00013.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00014.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00015.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00016.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00017.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00018.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00019.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00020.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00021.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00022.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00023.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00024.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00025.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00026.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00027.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00028.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00029.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00030.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00031.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00032.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00033.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00000.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00001.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00002.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00003.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00004.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00005.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00006.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00007.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00008.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00009.png"
+}
+images {
+  image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00010.png"
+}
+animations {
+  id: "bean-idle"
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00010.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00011.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00012.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00013.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00014.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00015.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00016.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00017.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00018.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00019.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00020.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00021.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00022.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-idle/bean-idle_00023.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-run"
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00010.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-run/bean-run_00011.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-jump-up"
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00010.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-up/bean-jump-up_00011.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-jump-down"
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00010.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-jump-down/bean-jump-down_00011.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-hurt"
+  images {
+    image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-hurt-noTint/bean-hurt-noTint_00003.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-die1"
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-2/bean-die-2_00010.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-die2"
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00010.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-die-noTint/bean-die-noTint_00011.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-land"
+  images {
+    image: "/assets/characters/1x/bean-land/bean-land_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-land/bean-land_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-land/bean-land_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-land/bean-land_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-land/bean-land_00004.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "bean-climb"
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/bean-climb/bean-climb_00009.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "caterpillar-walk"
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00010.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00011.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00012.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00013.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00014.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00015.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00016.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00017.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00018.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00019.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00020.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00021.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00022.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00023.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00024.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00025.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00026.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00027.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00028.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00029.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00030.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00031.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00032.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00033.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00034.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-walk-2/caterpillar-walk-2_00035.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "caterpillar-die"
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00000.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00001.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00002.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00003.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00004.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00005.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00006.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00007.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00008.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00009.png"
+  }
+  images {
+    image: "/assets/characters/1x/caterpillar-die/caterpillar-die_00010.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 24
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
